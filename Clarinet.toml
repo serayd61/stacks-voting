@@ -1,0 +1,16 @@
+[project]
+name = "stacks-voting"
+description = "Decentralized on-chain voting for DAOs"
+authors = ["serayd61"]
+telemetry = false
+cache_dir = ".cache"
+requirements = []
+
+[contracts.voting]
+path = "contracts/voting.clar"
+clarity_version = 3
+epoch = 3.0
+
+[repl.analysis]
+passes = ["check_checker"]
+
