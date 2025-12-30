@@ -54,3 +54,10 @@ Decentralized on-chain voting for DAOs and communities on Stacks blockchain.
 
 MIT
 
+
+
+---
+## Features
+- ✅ Create proposals
+- ✅ Token-weighted voting
+- ✅ Mainnet deployed
